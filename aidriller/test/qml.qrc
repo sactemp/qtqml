@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../engine/QML/BaseItem.qml</file>
+        <file>../../engine/QML/Button.qml</file>
+        <file>../../engine/QML/lib.js</file>
+        <file>../../engine/QML/qmldir</file>
+        <file>../../engine/QML/Style.qml</file>
+        <file>../../engine/QML/TextEdit.qml</file>
+        <file>../../engine/QML/SelectFileFolderDialog.qml</file>
+        <file>qml/DataSources.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/Login.qml</file>
+        <file>qml/qmldir</file>
+        <file>qml/View2D.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+    </qresource>
+</RCC>
